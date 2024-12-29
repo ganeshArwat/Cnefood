@@ -118,6 +118,9 @@
     }
 
     /* MOBILE NAVIGATION */
+    .header {
+        justify-content: space-between;
+    }
     .btn-mobile-nav {
         display: block;
         z-index: 9999;
